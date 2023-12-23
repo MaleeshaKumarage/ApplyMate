@@ -1,4 +1,4 @@
-﻿namespace ClassLibrary1
+﻿namespace Application
 {
     public class Class1
     {
